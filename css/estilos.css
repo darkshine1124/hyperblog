@@ -3,7 +3,11 @@ body
     text-align: center;
     font-family: "helvetica";
     background-color: black;
+<<<<<<< HEAD
     color: blue;
+=======
+    color: red;
+>>>>>>> cabecera
     font-size: 30px;
     padding: 0px;
     margin: 0px;
